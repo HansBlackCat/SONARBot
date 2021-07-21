@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "SONARBot": {
+      "commandName": "Project"
+    }
+  }
+}
