@@ -1,1 +1,3 @@
 # SONARBot
+
+Bot for discord
