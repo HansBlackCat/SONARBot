@@ -12,6 +12,6 @@ namespace SONARBot {
   }
   
   static class WrongClass {
-    public static WrongAdd() { return int.MaxValue + 2; }
+    public static int WrongAdd() { return int.MaxValue + 2; }
   }
 }
