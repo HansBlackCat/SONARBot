@@ -8,4 +8,4 @@ Bot for discord
   - [x] Simple Run
   - [ ] Queueing
   - [ ] Collect Data
-- [] Logging
+- [ ] Logging
