@@ -10,8 +10,4 @@ namespace SONARBot {
     private readonly DiscordSocketClient _client;
     static Task Main(string[] args) => new DiscordEntry().MainAsync();
   }
-  
-  static class WrongClass {
-    public static int WrongAdd() { return int.MaxValue + 2; }
-  }
 }
